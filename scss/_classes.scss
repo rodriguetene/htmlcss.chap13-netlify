@@ -1,0 +1,15 @@
+.title{
+    &-small{
+        letter-spacing: 0.2rem;
+        font-size: 1.8rem;
+        text-align: center;
+    }
+}
+.text{
+    &-primary{
+        color:#00c3ff;
+    }
+    &-hint{
+        color: #999;
+    }
+}
